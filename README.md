@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @olabid212
-- 👀 I’m interested in mobile app development
-- 🌱 I’m currently learning flutter
-- 💞️ I’m interested in Front End Development 
+- 👀 I’m interested in Website development
+- 🌱 I’m currently learning Software Development 
 - 📫 How to reach me (call/whatsapp 08100275274) (Email: olabid212@gmail.com)
 
 <!---
