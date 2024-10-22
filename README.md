@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @olabid212
-- 👀 I’m interested in Website development
-- 🌱 I’m currently learning Software Development 
+- 👋 Hi, I’m Taiwo Abidemi Olamide
+- 👀 A full stack developer
 - 📫 How to reach me (call/whatsapp 08100275274) (Email: olabid212@gmail.com)
 
 <!---
